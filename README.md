@@ -4,7 +4,8 @@
 ### Ik woon in Amsterdam in de Joordaan.
 
 ## Mijn hobbies:
-### Ik game en werk bij de Krijdvat.
+### Ik game 
+### Ik werk bij de Kruidvat.
 
 ## Mijn favoriete eten is:
 ### Pizza
