@@ -1,13 +1,13 @@
 # Casper Matauschek
 
-##Woonplaats:
-###Ik woon in Amsterdam in de Joordaan.
+## Woonplaats:
+### Ik woon in Amsterdam in de Joordaan.
 
-##Mijn hobbies:
-###Ik game en werk bij de Krijdvat.
+## Mijn hobbies:
+### Ik game en werk bij de Krijdvat.
 
-##Mijn favoriete eten is:
-###Pizza
-###Pasta
-###Sushi
+## Mijn favoriete eten is:
+### Pizza
+### Pasta
+### Sushi
 
