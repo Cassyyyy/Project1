@@ -3,7 +3,7 @@
 ## Woonplaats:
 ### Ik woon in Amsterdam in de Joordaan.
 
-## Mijn hobbies:
+## Mijn hobby's:
 ### Ik game 
 ### Ik werk bij de Kruidvat.
 
